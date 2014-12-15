@@ -7,7 +7,8 @@ user's download directory and sets that file as the selection
 in Quicksilver
 
 # qs-select-last-screenshot
-This script finds the most recently created screenshot in
+This script finds the most recently created screenshot (via
+the standard cmd-shift-3 and cmd-shift-4 MacOS X shortcuts) in
 the user's Desktop directory and sets that file as the
 selection in Quicksilver.
 
