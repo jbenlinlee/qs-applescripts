@@ -6,6 +6,7 @@ using terms from application "Quicksilver"
 			-- Add a linebreak to the text passed in
 			set newmsg to make new outgoing message with properties {content:qstext & "<br>"}
 			open newmsg
+			activate
 		end tell
 	end process text
 	

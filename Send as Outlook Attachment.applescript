@@ -13,6 +13,7 @@ using terms from application "Quicksilver"
 			end repeat
 			
 			open newmsg
+			activate
 		end tell
 	end open files
 	
