@@ -14,3 +14,10 @@ selection in Quicksilver.
 
 Useful for quickly taking a screenshot and then 
 manipulating that file with QS.
+
+# Send as Outlook Message
+Creates an Outlook e-mail using pane 1 text as the body
+
+# Send as Outlook Attachment
+Creates an Outlook e-mail with selected files in pane 1 as
+attachments.
